@@ -13,7 +13,8 @@ The website are able to to:
 
 ## Project type
 Group project, 4 people in total.
-My contibution to this project are most of the HTML and PHP code. grpoupmates mainly responsible for concept, report and presentation
+My contibution to this project are most of the HTML and PHP code. 
+Grpoupmates mainly responsible for concept, report and presentation
 
 
 ## Source Template
